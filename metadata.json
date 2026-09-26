@@ -1,0 +1,6 @@
+{
+  "name": "Kanan Bakery Atelier & Kitchen Ops",
+  "description": "Artisanal French patisserie boutique and live kitchen dispatch console with bespoke celebration cake builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
